@@ -1,0 +1,9 @@
+  ***Tipos primitivos***
+
+  ->int (inteiro [4, -3, 1376])
+
+  ->float (real [4.5, 0.0076, 7.0])
+
+  ->bool (booleanos, logicos [True, False])
+
+  ->str (string ['Olá', '7.5', ''])
